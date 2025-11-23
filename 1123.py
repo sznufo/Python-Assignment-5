@@ -1,6 +1,6 @@
 # Python Assignment #5 
 
-# 과제 32
+# 32
 set1 = {1, 3, 5, 7, 9}
 set2 = {3, 5, 7, 9, 11}
 print("합집합: ", set1.union(set2))
